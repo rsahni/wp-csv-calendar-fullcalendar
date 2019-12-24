@@ -1,0 +1,61 @@
+#calendar .fc-view-container table thead.fc-head table{
+    margin-bottom: 0!important;
+}
+#calendar .fc-view-container table thead.fc-head table thead th.fc-day-header span,
+#calendar .fc-toolbar .fc-left .btn-group span,
+#calendar .fc-toolbar .fc-left .btn-group .btn,
+#calendar .fc-toolbar .fc-left .fc-today-button, 
+#calendar .fc-toolbar .fc-right .btn-group .btn{
+    font-size: 16px;
+}
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton td span.fc-day-number{
+    font-size: 18px;
+}
+#calendar .fc-toolbar .fc-center h2{
+    font-size: 28px;
+}
+#calendar .btn-primary,
+#calendar .fc-view-container table thead.fc-head table thead th.fc-day-header{
+    color: #292929 !important;
+    background-color: #f1e300 !important;
+}
+#calendar .fc-view-container table thead.fc-head table thead th.fc-day-header span{
+    color: #292929 !important;
+}
+#calendar .fc-view-container table tbody.fc-body .fc-bg{
+    background-color: #292929;
+}
+#calendar .fc-view-container table tbody.fc-body .fc-day-number{
+    color: #ffffff;
+}
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton .fc-today .fc-day-number{
+    color: #000;
+}
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton table tbody tr,
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton a.fc-day-grid-event,
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton a.fc-day-grid-event .fc-content,
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton a.fc-day-grid-event .fc-content span{
+    font-size: 13px;
+    line-height: normal;
+}
+#calendar .fc-view-container table tbody.fc-body .fc-content-skeleton a.fc-more{
+    color: #fff;
+    font-size: 13px;
+}
+#calendar .fc-view-container .fc-popover .card-header .fc-title,
+#calendar .fc-view-container .fc-popover .card-header .fc-close,
+#calendar .fc-view-container .fc-popover .card-header .fc-close,
+#calendar .fc-view-container .fc-popover .card-body .fc-event-container a{
+    font-size: 16px;
+}
+#calendar .fc-divider {
+    height: 0;
+    margin: 0;
+    padding: 0 0 2px;
+    border-width: 1px 0;
+}
+#calendar .fc-timeGridWeek-view span,
+#calendar .fc-timeGridDay-view span{
+    color: #fff;
+    font-size: 16px;
+}
