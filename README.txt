@@ -8,7 +8,8 @@ This plugin uses power of the jQuery FullCalendar plugin to create a stunning ca
 
 == Description ==
 
-[FullCalendar](http://arshaw.com/fullcalendar/ "jQuery Calendar Plugin") is a free open source jQuery plugin by Adam Arshaw which generates a stunning calendar populated with your uploaded events using CSV or individual entry.
+[FullCalendar](http://arshaw.com/fullcalendar/ "jQuery Calendar Plugin") is a free open source jQuery plugin by Adam Arshaw
+which generates a stunning calendar populated with your uploaded events using CSV or individual entry.
 
 == Features ==
 
